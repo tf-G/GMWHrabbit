@@ -1,0 +1,2 @@
+# GMWHrabbit
+Using files created for a previous Madcap Flare lesson, created a new site using many iterations with Claude as well as manual improvements using Visual Studio Code. Much of the content comes from the Red Door Animal Shelter Rabbit Handbook, as well as my own expertise as a Red Door 15-year volunteer.
